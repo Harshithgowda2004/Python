@@ -47,6 +47,14 @@ This repository contains basic Python programs practiced on \*\*Day 1\*\* as par
 ---
 
 
+### 3️⃣ Temperature Conversion
+- Convert **Celsius to Fahrenheit**
+
+📄 File: `day1_temperature.py`
+
+
+---
+
 
 \## 🧠 Concepts Covered
 
@@ -79,10 +87,6 @@ PythonDay1/
 │── day1\_strings.py
 
 │── README.md
-
----
-
-
 
 ---
 
